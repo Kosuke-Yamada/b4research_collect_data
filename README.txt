@@ -12,7 +12,7 @@ scraiping_16p.py
 
 
 collect_id2data.py
-収集したuserIDを全データに復元する．
+収集したuserIDをデータに復元する．
 
 
 
